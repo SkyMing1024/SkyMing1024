@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Sky's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkyMing1024)](https://github.com/anuraghazra/github-readme-stats)
+[![Sky's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkyMing1024&show_icons=true&theme=radical)](http://skyming.xyz/)
 
 
 
