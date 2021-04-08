@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Sky's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkyMing1024&show_icons=true&theme=radical&bg_color=30,904e95,e96443&title_color=fff&text_color=fff)](http://skyming.xyz/)
+[![Sky's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkyMing1024&show_icons=true&theme=radical&bg_color=30,b61ab9,c53d9f,d65c84,e17374,e2776f,ef8f5c)](http://skyming.xyz/)
 
 
 
